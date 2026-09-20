@@ -26,7 +26,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I am a PhD student at Leiden University. My current research focuses on studying asymptotic giant branch (AGB) stars in distant quiescent galaxies using NIR observations. I am currently tackling questions like: How much light do AGB stars emit in stellar populations? How much circumstellar dust do they produce? And how can we harness their NIR molecular absorption features to constrain ages and metallicities? In particular, I do this in the context of galaxy evolution.
+Hi there! I am a PhD student at Leiden University. My current research focuses on studying asymptotic giant branch (AGB) stars in distant quiescent galaxies using NIR observations. I am currently tackling questions like:
+
+- How much light do AGB stars produce?
+- What is their role in the production of dust in the universe?
+- And how can we unlock the NIR to learn about their molecular absorption features?
+
+In particular, I do this in the context of galaxy evolution.
 
 I grew up in the beautiful town of Genk, Belgium. My passion for astronomy began early, prompting me to join a youth astronomy organization called JVS-Descartes, which ultimately inspired my academic career. In 2019, I moved to The Netherlands to study astronomy and physics in Leiden. As part of my master's program, I studied how supermassive black holes are fed, a project which brought me all the way to the Atacama desert in Chile. Since Sept. 2025, I am working on my PhD in Leiden with prof. Mariska Kriek, which is focused on evolved stars in quiescent galaxies.
 
