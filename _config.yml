@@ -135,10 +135,10 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: "Exceptional Ordinary Physics (EOP Blog)"
+blog_name: "Exceptional Ordinary Physics"
 blog_description: >-
   A wonderful world of physics lies right in front of your nose. Just look around you and ask "Why?"
-  There is no need for a particle accelerator to do new physics! In this bimonthly popular
+  There is no need for a particle accelerator to do new physics.<br>In this monthly popular
   science column, I show how extraordinary physics lurks behind ordinary everyday topics
   and phenomena.
 permalink: /blog/:year/:title/
