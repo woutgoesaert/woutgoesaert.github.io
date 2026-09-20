@@ -20,7 +20,7 @@ nav_order: 3
 <ul>
   {% for talk in upcoming_talks %}
   <li>
-    <strong>{{ talk.date | date: "%B %Y" }}</strong> &mdash; {{ talk.title }}, {{ talk.event }}{% if talk.location %}, {{ talk.location }}{% endif %}{% if talk.url %} (<a href="{{ talk.url }}">details</a>){% endif %}
+    <strong>{{ talk.date | date: "%B %Y" }}</strong> &mdash; {{ talk.title }}, {{ talk.event }}{% if talk.location %}, {{ talk.location }}{% endif %}{% if talk.link %} (<a href="{{ talk.link }}">details</a>){% endif %}
   </li>
   {% endfor %}
 </ul>
@@ -30,7 +30,7 @@ nav_order: 3
 <ul>
   {% for talk in past_talks %}
   <li>
-    <strong>{{ talk.date | date: "%B %Y" }}</strong> &mdash; {{ talk.title }}, {{ talk.event }}{% if talk.location %}, {{ talk.location }}{% endif %}{% if talk.url %} (<a href="{{ talk.url }}">details</a>){% endif %}
+    <strong>{{ talk.date | date: "%B %Y" }}</strong> &mdash; {{ talk.title }}, {{ talk.event }}{% if talk.location %}, {{ talk.location }}{% endif %}{% if talk.link %} (<a href="{{ talk.link }}">details</a>){% endif %}
   </li>
   {% endfor %}
 </ul>
