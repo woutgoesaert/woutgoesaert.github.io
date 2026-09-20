@@ -64,3 +64,9 @@ body > div.container {
     width: 100% !important;
   }
 }
+
+/* The footer social icons (email/LinkedIn/GitHub on the about page) ship
+   at a huge 4rem font-size from the theme. Scale them down to about half. */
+.social .contact-icons {
+  font-size: 2rem;
+}
