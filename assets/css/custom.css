@@ -1,11 +1,14 @@
 /* -----------------------------------------------------------------------
    Site-wide cosmic background.
-   The image sits fixed behind everything; the main content column keeps
-   its own opaque theme background so text stays fully readable on top.
+   The background-image url() itself lives in an inline \3c style> block in
+   _includes/head.liquid instead of here, so it can be cache-busted on
+   every deploy (a plain CSS file can't use Jekyll's bust_file_cache
+   filter). This file only holds the non-image background rules.
+   The main content column keeps its own opaque theme background so text
+   stays fully readable on top of the background image.
    ----------------------------------------------------------------------- */
 
 body {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/assets/img/bg-starfield-wide.jpg");
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
@@ -23,7 +26,6 @@ body > div.container {
   body {
     /* Fixed backgrounds are unreliable/janky on many mobile browsers, and
        the tall crop reads better on a narrow viewport anyway. */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/assets/img/bg-starfield-tall.jpg");
     background-attachment: scroll;
   }
 
