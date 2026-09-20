@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I am a PhD student at Leiden University. My current research focuses on studying asymptotic giant branch (AGB) stars in distant quiescent galaxies using NIR observations. I am currently tackling questions like:
+Hi there! I am a PhD student at Leiden University, supervised by [Prof. Mariska Kriek](https://home.strw.leidenuniv.nl/~kriek/). My current research focuses on studying asymptotic giant branch (AGB) stars in distant quiescent galaxies using NIR observations. I am currently tackling questions like:
 
 - How much light do AGB stars produce?
 - What is their role in the production of dust in the universe?
