@@ -9,7 +9,7 @@ nav_order: 3
 
 <p>
   For speaking inquiries, please get in touch by email:
-  <a href="mailto:wout.goesaert@gmail.com">wout.goesaert@gmail.com</a>.
+  <a href="mailto:goesaert@strw.leidenuniv.nl">goesaert@strw.leidenuniv.nl</a>.
 </p>
 
 {% assign upcoming_talks = site.talks | where: "upcoming", true | sort: "date" %}
