@@ -1,0 +1,34 @@
+/* -----------------------------------------------------------------------
+   Site-wide cosmic background.
+   The image sits fixed behind everything; the main content column keeps
+   its own opaque theme background so text stays fully readable on top.
+   ----------------------------------------------------------------------- */
+
+body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/assets/img/bg-starfield-wide.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+body > div.container {
+  background-color: var(--global-bg-color);
+  border-radius: 12px;
+  padding: 2rem 2.25rem;
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.35);
+}
+
+@media (max-width: 767px) {
+  body {
+    /* Fixed backgrounds are unreliable/janky on many mobile browsers, and
+       the tall crop reads better on a narrow viewport anyway. */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/assets/img/bg-starfield-tall.jpg");
+    background-attachment: scroll;
+  }
+
+  body > div.container {
+    padding: 1.25rem;
+    border-radius: 8px;
+  }
+}
