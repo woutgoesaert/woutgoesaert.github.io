@@ -5,7 +5,7 @@ date: 2026-02-13 20:00:00+0100
 description: Exceptional Ordinary Physics #32 — the surprisingly rich physics and chemistry hiding inside an ordinary candle flame.
 tags: chemistry combustion
 categories: EOP
-thumbnail: /assets/img/blog/eop32-candle-zones.jpg
+thumbnail: /assets/img/blog/eop32-candle-thumb.jpg
 ---
 
 In this column we look at the extraordinary physics hiding behind everyday objects and phenomena. This time, we're staring — with our full attention — at a burning candle.

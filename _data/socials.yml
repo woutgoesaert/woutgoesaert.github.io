@@ -6,8 +6,6 @@ email: goesaert@strw.leidenuniv.nl # your email address
 # orcid_id: 0000-0000-0000-0000 # TODO: uncomment and add your real ORCID iD
 linkedin_username: wout-goesaert-astronomy # your LinkedIn username
 github_username: woutgoesaert
-x_username: WGoesaert # your X (Twitter) username
-rss_icon: true # comment this line to hide the RSS icon
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # custom_social: # NASA ADS profile - uncomment once you have your real ADS URL below (a blank url here crashes the build, same as baseurl did)
