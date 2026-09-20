@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: EOP Blog
+title: eop blog
 nav: true
 nav_order: 1
 pagination:

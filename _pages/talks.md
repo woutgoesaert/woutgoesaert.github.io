@@ -16,7 +16,7 @@ nav_order: 3
 {% assign past_talks = site.talks | where: "upcoming", false | sort: "date" | reverse %}
 
 {% if upcoming_talks.size > 0 %}
-<h2>Upcoming</h2>
+<h2>upcoming</h2>
 <ul>
   {% for talk in upcoming_talks %}
   <li>
@@ -26,7 +26,7 @@ nav_order: 3
 </ul>
 {% endif %}
 
-<h2>Past</h2>
+<h2>past</h2>
 <ul>
   {% for talk in past_talks %}
   <li>
