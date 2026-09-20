@@ -32,6 +32,13 @@ My passion for astronomy began early, prompting me to join a youth astronomy org
 
 I enjoy giving talks, writing popular science articles and looking at the world from weird angles through my camera. And whenever I'm not by distracted by our awesome universe, I also enjoy playing volleyball, cooking and listening to my vinyl records.
 
+<div class="row justify-content-center">
+  <div class="col-sm-10">
+    <img src="/assets/img/alma_fieldwork.jpg" class="img-fluid rounded z-depth-1" alt="Wout at the ALMA Observatory in the Atacama Desert, Chile">
+    <p class="text-center mt-2"><em>At the ALMA Observatory in the Atacama Desert, Chile.</em></p>
+  </div>
+</div>
+
 ## Research
 
 <div class="publications">
