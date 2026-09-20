@@ -11,7 +11,7 @@ cv:
 
   social_networks:
     - network: GitHub
-      username: woutgoesaert
+      username: Woutmg
     - network: LinkedIn
       username: wout-goesaert-astronomy
 
@@ -49,6 +49,7 @@ cv:
         position: "PhD Candidate — TP-AGB stars as actors of galaxy evolution"
         location: Leiden, The Netherlands
         start_date: 2025
+        end_date: 2029
         summary: Supervisor Prof. Mariska K.T. Kriek
 
       - company: "ESO: Santiago de Chile"
@@ -165,14 +166,20 @@ cv:
         awarder: UHasselt
 
     Projects:
-      - name: Observing experience — Mercator, Isaac Newton and VLT
+      - name: Supervision
         start_date: 2020
         end_date: 2024
-        summary: La Palma & Paranal
+        summary: Leiden, The Netherlands
         highlights:
+          - "Supervision of MSc students: Maria Kalitsounaki (Gas Outflows in Quiescent Galaxies at Cosmic Noon) and Yara Beekhuizen (The Nature of UV Radiation in Quiescent Galaxies)."
+
+      - name: Observing experience — JWST, Isaac Newton and Mercator
+        start_date: 2020
+        end_date: 2024
+        highlights:
+          - JWST observation planning for the NIRSpec MOS micro shutter array.
           - Service mode observations using HERMES at the Mercator Telescope (KU Leuven, 3 nights).
           - Remote observations with the Isaac Newton Telescope (Leiden University, 2 nights).
-          - Attended activities at ALMA and Paranal (3 & 2 nights).
 
       - name: Teaching Assistant — Planetary Systems
         date: 2024
@@ -196,7 +203,7 @@ cv:
         start_date: 2016
         summary: Several columns and articles in popular science journals.
         highlights:
-          - "Exceptioneel Ordinaire Fysica (Astra magazine, 26 pieces)."
+          - "Exceptioneel Ordinaire Fysica (Astra magazine, 32 pieces)."
           - "Wist-je-hopelijk-nog-niet-datjes (Astra magazine, 5 pieces)."
           - "Several other publications at EOS, Selena, Astra and Heelal."
 
@@ -215,7 +222,7 @@ cv:
 
     Skills:
       - name: Programming
-        keywords: "Python, LaTeX, Linux, GitHub, CASA, CARTA, 3D-Barolo, DS9"
+        keywords: "Python, LaTeX, Linux, GitHub, JWST APT, CASA, CARTA, 3D-Barolo, DS9"
 
       - name: Research areas
         keywords: "Radio, Infrared, AGNs, Molecular Astronomy, ALMA, JWST"
