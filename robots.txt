@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://woutgoesaert.github.io/sitemap.xml
