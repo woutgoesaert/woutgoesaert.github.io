@@ -47,3 +47,20 @@ body > div.container {
 .header-bar h2 {
   font-size: 1.15rem;
 }
+
+/* The CV contact-info table (table.table-cv) is a plain two-column
+   HTML table with no responsive behaviour, so a two-word label like
+   "Professional Title" wraps onto its own line and crowds the value
+   column on narrow phone screens. Stack label/value as full-width
+   blocks instead once the viewport gets tight. */
+@media (max-width: 576px) {
+  table.table-cv tr {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  table.table-cv td {
+    display: block;
+    width: 100% !important;
+  }
+}
