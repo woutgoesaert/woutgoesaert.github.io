@@ -135,8 +135,12 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: "Exceptional Ordinary Physics (EOP Blog)"
+blog_description: >-
+  A wonderful world of physics lies right in front of your nose. Just look and ask "Why?"
+  There is no need for a particle accelerator to do new physics! In this bimonthly popular
+  science column, I show how extraordinary physics lurks behind ordinary everyday topics
+  and phenomena.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
