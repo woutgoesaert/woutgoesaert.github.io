@@ -4,8 +4,9 @@
 # cv_pdf: /assets/pdf/your_cv.pdf # TODO: uncomment and point this at your CV PDF once you have one
 email: goesaert@strw.leidenuniv.nl # your email address
 # orcid_id: 0000-0000-0000-0000 # TODO: uncomment and add your real ORCID iD
-# linkedin_username: your-linkedin-username # TODO: uncomment and add your real LinkedIn username (the part after linkedin.com/in/)
+linkedin_username: wout-goesaert-astronomy # your LinkedIn username
 github_username: woutgoesaert
+x_username: WGoesaert # your X (Twitter) username
 rss_icon: true # comment this line to hide the RSS icon
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
