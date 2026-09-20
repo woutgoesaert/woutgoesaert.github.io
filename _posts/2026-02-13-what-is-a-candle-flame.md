@@ -24,7 +24,7 @@ When you light the wick, it's not actually the solid candle wax that burns first
 
 <div class="row justify-content-center">
   <div class="col-sm-11">
-    <img src="/assets/img/blog/eop32-paraffin-chain.jpg" class="img-fluid rounded z-depth-1" alt="Ball-and-stick model of a long paraffin carbon chain">
+    <img src="/assets/img/blog/eop32-paraffin-chain.png" class="img-fluid rounded z-depth-1" alt="Ball-and-stick model of a long paraffin carbon chain">
     <p class="text-center mt-2"><em>Paraffin wax is a mixture of long carbon chains — some up to 57 carbon atoms long.</em></p>
   </div>
 </div>
@@ -58,4 +58,4 @@ And there you have it — now you understand a candle so much better! Spread the
 
 ---
 
-**A quick disclaimer:** since nobody ever talks about this completely obscure topic in English, there aren't yet any established words for these zones. All the names I've used here are therefore entirely made up and carry no scientific authority whatsoever. You have been warned…
+**A quick disclaimer:** since nobody ever talks about this completely obscure topic, there aren't yet any established words for these zones. All the names I've used here are therefore entirely made up and carry no scientific authority whatsoever. You have been warned…
