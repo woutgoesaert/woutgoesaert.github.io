@@ -1,0 +1,15 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+cv_pdf: # path to your CV PDF file - leave blank until you have one to link
+email: wout.goesaert@gmail.com # your email address
+orcid_id: # TODO: add your ORCID iD, format 0000-0000-0000-0000
+linkedin_username: # TODO: add your LinkedIn username (the part after linkedin.com/in/)
+github_username: woutgoesaert
+rss_icon: true # comment this line to hide the RSS icon
+# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+custom_social: # NASA ADS profile
+  logo: ai ai-ads # academicons icon class for ADS - double-check this renders, swap for an image path in assets/img/ if not
+  title: NASA ADS
+  url: # TODO: paste your ADS author search / library URL here
