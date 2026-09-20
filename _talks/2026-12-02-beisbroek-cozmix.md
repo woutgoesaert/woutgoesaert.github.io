@@ -5,5 +5,4 @@ location: "Belgium"
 date: 2026-12-02
 type: outreach
 upcoming: true
-url:
 ---

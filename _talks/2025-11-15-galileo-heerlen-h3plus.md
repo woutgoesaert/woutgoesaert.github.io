@@ -5,5 +5,5 @@ location: "Heerlen, The Netherlands"
 date: 2025-11-15
 type: outreach
 upcoming: false
-url:
+url: https://www.astronomie.nl/agenda/lezing-kosmische-straling-in-stervormende-sterrenstelsels-heerlen-717
 ---

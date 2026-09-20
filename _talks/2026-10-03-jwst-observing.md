@@ -5,5 +5,4 @@ location: "Blankenberge, Belgium"
 date: 2026-10-03
 type: outreach
 upcoming: true
-url:
 ---

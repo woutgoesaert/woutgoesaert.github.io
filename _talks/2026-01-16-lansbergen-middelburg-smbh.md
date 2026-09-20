@@ -5,5 +5,4 @@ location: "Middelburg, The Netherlands"
 date: 2026-01-16
 type: outreach
 upcoming: false
-url:
 ---
