@@ -34,3 +34,11 @@ body > div.container {
     border-radius: 8px;
   }
 }
+
+/* The blog title ("header-bar h1") ships from the theme at a fixed
+   5rem font-size with no responsive scaling, so on narrow phone
+   screens it overflows/wraps awkwardly. Scale it down with viewport
+   width instead. */
+.header-bar h1 {
+  font-size: clamp(2rem, 12vw, 5rem);
+}
