@@ -1,189 +1,236 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  name: Wout Goesaert
+  label: Astronomy PhD Candidate at Leiden University
+  email: goesaert@strw.leidenuniv.nl
+  website: https://woutgoesaert.github.io
+  summary: >-
+    PhD student at Leiden Observatory studying the evolved phases of stellar evolution
+    (TP-AGB stars) in quiescent galaxies using near-infrared observations. Background in
+    radio and infrared astronomy, with research experience spanning ALMA, JWST and MeerKAT.
+    Enjoys giving talks, popular science writing, and stargazing with a Dobsonian telescope.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: woutgoesaert
     - network: LinkedIn
-      username: example
+      username: wout-goesaert-astronomy
+    - network: X
+      username: WGoesaert
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    city: Leiden
+    countryCode: NL
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Leiden University
+        area: Astronomy Research
+        studyType: MSc
+        start_date: 2022
         highlights:
-          - Description 1.
-          - Description 2.
+          - "GPA: 9.0/10"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Leiden University
+        area: Astronomy
+        studyType: BSc
+        start_date: 2019
+        end_date: 2022
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Cum Laude, GPA: 8.8/10"
+
+      - institution: Leiden University
+        area: Physics
+        studyType: BSc
+        start_date: 2019
+        end_date: 2022
+        highlights:
+          - "Cum Laude, GPA: 8.8/10"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Leiden University
+        position: "PhD Candidate — TP-AGB stars as actors of galaxy evolution"
+        location: Leiden, The Netherlands
+        start_date: 2025
+        summary: Supervisor Prof. Mariska K.T. Kriek
+
+      - company: "ESO: Santiago de Chile"
+        position: "Research Internship — ALMA: Resolving the torus and outflow of the Circinus AGN"
+        location: Santiago, Chile
+        start_date: 2024
+        end_date: 2024
+        summary: Supervisors Dr. Konrad R. W. Tristram and Dr. C. M. Violette Impellizzeri
         highlights:
-          - Relativity
-          - Description 2.
+          - Built on my first master's thesis with a focus on the outflows and inflows traced by the continuum and molecular kinematics.
+          - Attempted to construct the first mass balance equation between a SMBH, torus, CND and galaxy.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Leiden University
+        position: "Master Thesis — JWST: H3+ Absorption and Emission Seen by JWST Probes Extremely High Ionisation Rates in (U)LIRGs (grade 10/10)"
+        location: Leiden, The Netherlands
+        start_date: 2023
+        end_date: 2024
+        summary: Supervisors Prof. dr. P. P. van der Werf and V. A. Buiten MSc
         highlights:
-          - Description 1.
-          - Description 2.
+          - Utilised JWST data to study H3+ in (U)LIRGs, leading to the discovery of H3+ emission in the ISM and the highest measured ionisation rates to date.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Leiden University
+        position: "First Master Project — ALMA: A novel view on the Circinus torus and circumnuclear disk (grade 9.5/10)"
+        location: Leiden, The Netherlands
+        start_date: 2022
+        end_date: 2023
+        summary: Supervisors Dr. C. M. Violette Impellizzeri and Dr. Alex P. S. Hygate
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Cleaned, self-calibrated and combined ALMA radio data.
+          - First measurements of the (column) density and temperature in a torus (LTE + non-LTE).
+          - Studied line ratios, continuum mechanism, morphology and kinematics at the highest spatial resolution to date.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: Leiden University
+        position: "Bachelor Thesis — MeerKAT: Polarimetry of Galaxy Cluster Magnetic Fields (grade 9/10)"
+        location: Leiden, The Netherlands
+        start_date: 2022
+        end_date: 2022
+        summary: Supervisors Dr. Reinout J. van Weeren and Dr. Erik Osinga
+        highlights:
+          - Mapped Faraday rotation of radio sources in Abell 85 using the MeerKAT Galaxy Cluster Legacy Survey.
+          - Determined the feasibility and limits of using the MGCLS catalog for this purpose.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: Leiden University
+        position: "Experimental Project — Quantum Optics: Delayed Choice Quantum Eraser (grade 9.5/10)"
+        location: Leiden, The Netherlands
+        start_date: 2021
+        end_date: 2022
+        summary: Supervisors Dr. Wolfgang Löffler and Matteo Fisicaro MSc
+        highlights:
+          - Built a delayed choice quantum eraser by storing superposition in polarisation of entangled photons, in a team of seven.
+          - Demonstrated Bell inequality for the first time in Leiden.
+          - Took on both a scientific and managing role in the project.
+
+      - company: Leiden University
+        position: "First Author Publication — Fluid dynamics: Capillary waves on water jets"
+        location: Leiden, The Netherlands
+        start_date: 2020
+        end_date: 2023
+        summary: Co-author Dr. Ir. Paul Logman
+        highlights:
+          - Developed a new method to accurately measure the dispersion relation of capillary waves on water jets.
+          - Constructed a semi-quantitative simulation for educational purposes.
+          - Published in the American Journal of Physics.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Torus feeding and outflow launching in the active nucleus of the Circinus galaxy
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Goesaert, W. M.
+          - et al.
+        publisher: Astronomy & Astrophysics
+        releaseDate: 2025
+        url: https://doi.org/10.1051/0004-6361/202555556
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Easy method to establish the dispersion relation of capillary waves on water jets
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Goesaert, W. M.
+          - Logman, P. S. W. M.
+        publisher: American Journal of Physics, 92(2)
+        releaseDate: 2024
+        url: https://doi.org/10.1119/5.0144849
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Strength of TP-AGB Emission in Distant Quiescent Galaxies (in prep.)"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Goesaert, W. M.
+          - et al.
+        publisher: In preparation
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Awards:
+      - title: Janneke Fruin-Helb Subsidie
+        date: 2025
+        awarder: Leiden University Fund (LUF)
+        summary: "€500"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - title: Scholarship for Chile research project
+        date: 2024
+        awarder: Leiden University Fund (LUF)
+        summary: "€1244"
 
-      - name: English
-        summary: "Fluent"
+      - title: 1st place, Dutch physics BSc thesis contest
+        date: 2023
+        awarder: NNV-SPIN
+        summary: "€500"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: Bronze Galilei Award
+        date: 2022
+        awarder: Vereniging Voor Sterrenkunde (VVS)
+        summary: Recognition for commitment to the Belgian Astronomical Society.
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - title: 1st place, Flemish Astronomy Olympiad
+        date: 2019
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - title: 5th place, Flemish Physics Olympiad
+        date: 2019
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - title: Young Scientist Award
+        date: 2015
+        awarder: UHasselt
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Observing experience — Mercator, Isaac Newton and VLT
+        start_date: 2020
+        end_date: 2024
+        summary: La Palma & Paranal
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Service mode observations using HERMES at the Mercator Telescope (KU Leuven, 3 nights).
+          - Remote observations with the Isaac Newton Telescope (Leiden University, 2 nights).
+          - Attended activities at ALMA and Paranal (3 & 2 nights).
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Teaching Assistant — Planetary Systems
+        date: 2024
+        summary: Leiden, The Netherlands
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Organising committee, Flemish Astronomy Olympiad
+        start_date: 2024
+        summary: VVS, Belgium
+
+      - name: Public Speaking
+        start_date: 2017
+        summary: "Talks, lecture series, conferences and events for audiences up to 300 people, all age groups and backgrounds."
+        highlights:
+          - "4 talks at ESO and UDP in Chile; focus talk at Nerdland Festival."
+          - "Yearly 10-part lecture series on astronomy at a public observatory (2017-2023)."
+          - "VVS/JVS conferences (2020-2023); Astronomy on Tap Leiden; Cosmic Café Genk."
+          - "Public shows about my research in collaboration with musician NeoMaan."
+          - "Talk at the ALMA + JWST Joint Science Day in Groningen."
+
+      - name: Popular science writing
+        start_date: 2016
+        summary: Several columns and articles in popular science journals.
+        highlights:
+          - "Exceptioneel Ordinaire Fysica (Astra magazine, 26 pieces)."
+          - "Wist-je-hopelijk-nog-niet-datjes (Astra magazine, 5 pieces)."
+          - "Several other publications at EOS, Selena, Astra and Heelal."
+
+      - name: President and board member, JVS-Descartes
+        start_date: 2016
+        summary: Genk, Belgium — President for 5 years, board member for 8 years.
+        highlights:
+          - "JVS-Descartes popularises physics and astronomy among children and youth."
+          - "Led an enthusiastic group of ~10 board members."
+          - "Other roles included secretary, lecture series on astronomy, observation camp, observing, rocketry, PR, and organising several public events."
+
+      - name: Guide at public observatory — Cosmodrome
+        start_date: 2018
+        end_date: 2019
+        summary: Tour guide, observatory & planetarium, Genk, Belgium.
+
+    Skills:
+      - name: Programming
+        keywords: "Python, LaTeX, Linux, GitHub, CASA, CARTA, 3D-Barolo, DS9"
+
+      - name: Research areas
+        keywords: "Radio, Infrared, AGNs, Molecular Astronomy, ALMA, JWST"
+
+    Languages:
+      - name: Dutch
+        summary: Native
+
+      - name: English
+        summary: "C2"
+
+      - name: French
+        summary: "B1"
