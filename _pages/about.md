@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Wout M. Goesaert</p>
     <p>(he/him)</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -25,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there, I am a PhD student at Leiden University. My current research focuses on studying asymptotic giant branch stars in distant quiescent galaxies using NIR observations.\newline
+Hi there! I am a PhD student at Leiden University. My current research focuses on studying asymptotic giant branch stars in distant quiescent galaxies using NIR observations.
 
-My passion for astronomy began early, prompting me to join a youth astronomy organisation in Belgium, which ultimately inspired my academic career. In 2019, I moved to The Netherlands to study astronomy and physics in Leiden, where I found great joy in physics and astronomy. As part of my master's program, I studied how supermassive black holes are fed, a project which brought me all the way to the Atacama desert in Chile. Now, I am working on my PhD with prof. Mariska Kriek, which is focused on evolved stars in quiescent galaxies.\newline
+My passion for astronomy began early, prompting me to join a youth astronomy organisation in Belgium, which ultimately inspired my academic career. In 2019, I moved to The Netherlands to study astronomy and physics in Leiden, where I found great joy in physics and astronomy. As part of my master's program, I studied how supermassive black holes are fed, a project which brought me all the way to the Atacama desert in Chile. Now, I am working on my PhD with prof. Mariska Kriek, which is focused on evolved stars in quiescent galaxies.
 
-I enjoy giving talks, writing popular science articles and looking at the world from weird angles through my camera. And when I'm not by distracted by science, I also enjoy playing volleyball, cooking and listening to vinyl records.
+I enjoy giving talks, writing popular science articles and looking at the world from weird angles through my camera. And whenever I'm not by distracted by our awesome universe, I also enjoy playing volleyball, cooking and listening to my vinyl records.
