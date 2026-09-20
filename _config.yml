@@ -393,6 +393,7 @@ enable_publication_badges:
 filtered_bibtex_keywords:
   [
     abbr,
+    firstauthor,
     abstract,
     additional_info,
     altmetric,
