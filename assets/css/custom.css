@@ -35,10 +35,15 @@ body > div.container {
   }
 }
 
-/* The blog title ("header-bar h1") ships from the theme at a fixed
-   5rem font-size with no responsive scaling, so on narrow phone
-   screens it overflows/wraps awkwardly. Scale it down with viewport
-   width instead. */
+/* The blog title ("header-bar h1") and its description ("header-bar h2")
+   ship from the theme at a fixed 5rem / browser-default size with no
+   responsive scaling, which reads too large even on a laptop and
+   overflows/wraps awkwardly on narrow phone screens. Scale both down
+   and let the title shrink further with viewport width. */
 .header-bar h1 {
-  font-size: clamp(2rem, 12vw, 5rem);
+  font-size: clamp(1.8rem, 6vw, 3.2rem);
+}
+
+.header-bar h2 {
+  font-size: 1.15rem;
 }
