@@ -26,20 +26,35 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I am a PhD candidate at Leiden University, supervised by [Prof. Mariska Kriek](https://home.strw.leidenuniv.nl/~kriek/). My current research focuses on studying asymptotic giant branch (AGB) stars in distant quiescent galaxies using NIR observations. I am currently tackling questions like:
+Hi there! I am a PhD candidate at Leiden University, supervised by [Prof. Mariska Kriek](https://home.strw.leidenuniv.nl/~kriek/). I work in observational extragalactic astrophysics, studying asymptotic giant branch stars and how they shape the light, composition, and evolution of their host galaxies.
 
-- How much light do AGB stars produce?
-- What is their role in the production of dust in the universe?
-- And how can we unlock the NIR to learn about their molecular absorption features?
+**A little bit about myself**
 
-I grew up in the beautiful town of Genk, Belgium. My passion for astronomy began early, prompting me to join a youth astronomy organization called JVS-Descartes, which ultimately inspired my academic career. In 2019, I moved to The Netherlands to study astronomy and physics in Leiden. As part of my master's program, I studied how supermassive black holes are fed, a project which brought me all the way to the Atacama desert in Chile. Since Sept. 2025, I am working on my PhD in Leiden, focused on evolved stars in quiescent galaxies.
+I grew up in the beautiful town of Genk, Belgium. My passion for astronomy began early, when I joined a youth astronomy organization called JVS-Descartes at a local public observatory — an experience that ultimately inspired my academic career. In 2019, I moved to the Netherlands to study astronomy and physics in Leiden. For my master's project, I studied how supermassive black holes are fed, which took me all the way to Chile. Since September 2025, I've been working on my PhD in Leiden.
 
-I enjoy giving talks, writing popular science articles and looking at the world from weird angles through my camera. But whenever I'm not distracted by our awesome universe, I also enjoy playing volleyball, cooking and listening to my vinyl records.
+I enjoy giving public talks, writing popular science articles and looking at the world from weird angles through my camera. But whenever I'm not distracted by our universe, I also enjoy playing volleyball, cooking and listening to my vinyl records.
 
 <div class="row justify-content-center mt-5">
   <div class="col-sm-10">
     <img src="/assets/img/alma_fieldwork.jpg" class="img-fluid rounded z-depth-1" alt="Wout at the ALMA Observatory in the Atacama Desert, Chile">
     <p class="text-center mt-2"><em>At the ALMA Observatory in the Atacama Desert, Chile.</em></p>
+  </div>
+</div>
+
+**My research**
+
+My PhD focuses on a rather peculiar type of star: thermally pulsing asymptotic giant branch (TP-AGB) stars. Mouthful aside, you can think of them as cosmic dust factories, enriching the universe with dust and with elements crucial for life, such as carbon and nitrogen. Dust is the building material from which planets are eventually made — our own blue marble, Earth, formed largely from dust first produced in the bubbling atmospheres of TP-AGB stars. Without them, life on our planet would likely look very different, if it existed at all.
+
+Yet despite their importance, the evolution of TP-AGB stars, their dust production, and their contribution to galaxies like our own Milky Way remain largely a mystery — they're among the least understood of all stellar types. That uncertainty ripples outward too, clouding fundamental measurements such as the ages and masses of galaxies. This is why I study them, and why I'm currently tackling questions like:
+
+- How much light do AGB stars produce?
+- What is their role in the production of dust in the universe?
+- And how can we unlock the NIR to learn about their molecular absorption features?
+
+<div class="row justify-content-center mt-5">
+  <div class="col-sm-6">
+    <img src="/assets/img/cw_leonis.jpg" class="img-fluid rounded z-depth-1" alt="Hubble image of the carbon-rich TP-AGB star CW Leonis">
+    <p class="text-center mt-2"><em>Expanding shells of dust fly out from the surface of the carbon-rich TP-AGB star CW Leonis - Credit: ESA/Hubble, NASA.</em></p>
   </div>
 </div>
 
