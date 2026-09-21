@@ -127,3 +127,38 @@ body > div.container {
    grid/order utility variants aren't guaranteed to survive that step -
    which is why the image was rendering at full width instead of in a
    constrained column. */
+.about-research-row {
+  display: flex;
+  flex-direction: column;
+}
+
+.about-research-row .about-research-image {
+  order: 1;
+}
+
+.about-research-row .about-research-text {
+  order: 2;
+}
+
+@media (min-width: 768px) {
+  .about-research-row {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 2rem;
+  }
+
+  .about-research-row .about-research-image {
+    order: 1;
+    flex: 0 0 40%;
+    max-width: 40%;
+    /* nudge down to visually align the top of the image with the
+       "My research" heading in the text column next to it, rather
+       than with the top of that column's padding */
+    margin-top: 2.2rem;
+  }
+
+  .about-research-row .about-research-text {
+    order: 2;
+    flex: 1 1 60%;
+  }
+}
