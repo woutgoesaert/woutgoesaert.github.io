@@ -70,3 +70,48 @@ body > div.container {
 .social .contact-icons {
   font-size: 2rem;
 }
+
+/* CV timeline entries (Experience/Education/Projects/etc.):
+   1) The date/location table (table.table-cv) sizes itself to its
+      content ("Leiden, The Netherlands", "2025 - PRESENT") with no
+      width constraint, so it silently overflows its narrow
+      .date-column and spills text on top of the title in the next
+      column. Force it to fit the column and wrap instead.
+   2) The little timeline "dot" is just the browser's native <li>
+      disc marker, which the browser positions relative to a flex
+      row with no well-defined first line. That works out fine when
+      every entry happens to be the same shape, but as soon as a
+      badge or location wraps onto a second line the dot drifts out
+      of line with it. Replace the native marker with our own dot,
+      explicitly centered on the date column, so it's always
+      anchored to the badge regardless of wrapping. */
+.list-group-flush .list-group-item {
+  list-style: none;
+}
+
+.list-group-flush .list-group-item .date-column {
+  position: relative;
+}
+
+.list-group-flush .list-group-item .date-column::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: -14px;
+  transform: translateY(-50%);
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: currentColor;
+}
+
+.list-group-flush table.table-cv {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.list-group-flush table.table-cv .location,
+.list-group-flush table.table-cv .badge {
+  white-space: normal;
+  overflow-wrap: break-word;
+}
