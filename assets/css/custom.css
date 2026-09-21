@@ -115,3 +115,7 @@ body > div.container {
   white-space: normal;
   overflow-wrap: break-word;
 }
+
+.accent-text {
+  color: var(--global-theme-color);
+}

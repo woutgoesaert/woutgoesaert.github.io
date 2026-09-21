@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Is a Candle Flame, Really?"
-date: 2026-02-13 20:00:00+0100
+date: 2026-09-21 20:00:00+0200
 description: Exceptional Ordinary Physics #32 — the surprisingly rich physics and chemistry hiding inside an ordinary candle flame.
 tags: chemistry combustion
 categories: EOP
@@ -16,7 +16,7 @@ No, a flame is different. Blow on it too hard and it disappears... into nothing.
 
 Femke taps my shoulder. *Do you want more risotto, Wout?* What? Oh right, I was daydreaming. During our very pleasant but badly delayed Christmas dinner<sup>1</sup>, I realized I'd been staring at a candle for an uncomfortably long time. I added the topic to my list of exceptionally ordinary physics and decided I'd better find out how a candle flame actually works. Ready for the answer? Here we go!
 
-<sub><sup>1</sup>: Insofar as a Christmas dinner on the 13th of February can still count as a Christmas dinner.</sub>
+<sub><sup>1</sup>: Insofar as a Christmas dinner on the 21st of September can still count as a Christmas dinner.</sub>
 
 ### What happens when you light a candle?
 
