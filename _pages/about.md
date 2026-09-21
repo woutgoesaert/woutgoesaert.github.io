@@ -34,13 +34,6 @@ I grew up in the beautiful town of Genk, Belgium. My passion for astronomy began
 
 I enjoy giving public talks, writing popular science articles and looking at the world from weird angles through my camera. But whenever I'm not distracted by our universe, I also enjoy playing volleyball, cooking and listening to my vinyl records.
 
-<div class="row justify-content-center mt-5">
-  <div class="col-sm-10">
-    <img src="/assets/img/alma_fieldwork.jpg" class="img-fluid rounded z-depth-1" alt="Wout at the ALMA Observatory in the Atacama Desert, Chile">
-    <p class="text-center mt-2"><em>At the ALMA Observatory in the Atacama Desert, Chile.</em></p>
-  </div>
-</div>
-
 **My research**
 
 My PhD focuses on a rather peculiar type of star: thermally pulsing asymptotic giant branch (TP-AGB) stars. Mouthful aside, you can think of them as cosmic dust factories, enriching the universe with dust and with elements crucial for life, such as carbon and nitrogen. Dust is the building material from which planets are eventually made — our own blue marble, Earth, formed largely from dust first produced in the bubbling atmospheres of TP-AGB stars. Without them, life on our planet would likely look very different, if it existed at all.
@@ -57,6 +50,17 @@ Yet despite their importance, the evolution of TP-AGB stars, their dust producti
     <p class="text-center mt-2"><em>Expanding shells of dust fly out from the surface of the carbon-rich TP-AGB star CW Leonis - Credit: ESA/Hubble, NASA.</em></p>
   </div>
 </div>
+
+<div class="row justify-content-center mt-5">
+  <div class="col-sm-10">
+    <img src="/assets/img/alma_fieldwork.jpg" class="img-fluid rounded z-depth-1" alt="Wout at the ALMA Observatory in the Atacama Desert, Chile">
+    <p class="text-center mt-2"><em>At the ALMA Observatory in the Atacama Desert, Chile.</em></p>
+  </div>
+</div>
+
+## Exceptional Ordinary Physics
+
+<p class="text-muted">My monthly popular science column, where I dig into the extraordinary physics hiding behind everyday things. Read it on the <a href="/blog/">outreach blog</a>.</p>
 
 ## Research
 
