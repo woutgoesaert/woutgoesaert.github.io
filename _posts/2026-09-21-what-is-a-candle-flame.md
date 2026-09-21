@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Is a Candle Flame, Really?"
-date: 2026-09-21 20:00:00+0200
+date: 2026-09-21 08:00:00+0200
 description: Exceptional Ordinary Physics #32 — the surprisingly rich physics and chemistry hiding inside an ordinary candle flame.
 tags: chemistry combustion
 categories: EOP
