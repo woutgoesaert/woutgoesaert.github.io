@@ -26,15 +26,30 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I am a PhD candidate at Leiden University, supervised by [Prof. Mariska Kriek](https://home.strw.leidenuniv.nl/~kriek/). My current research focuses on studying asymptotic giant branch (AGB) stars in distant quiescent galaxies using NIR observations. I am currently tackling questions like:
+Hi there! I am a PhD candidate at Leiden University, supervised by [Prof. Mariska Kriek](https://home.strw.leidenuniv.nl/~kriek/). I work in observational extragalactic astrophysics, where I study how asymptotic giant branch stars shape the light, composition, and evolution of their host galaxies.
 
-- How much light do AGB stars produce?
-- What is their role in the production of dust in the universe?
-- And how can we unlock the NIR to learn about their molecular absorption features?
+**A little bit about myself**
 
-I grew up in the beautiful town of Genk, Belgium. My passion for astronomy began early, prompting me to join a youth astronomy organization called JVS-Descartes, which ultimately inspired my academic career. In 2019, I moved to The Netherlands to study astronomy and physics in Leiden. As part of my master's program, I studied how supermassive black holes are fed, a project which brought me all the way to the Atacama desert in Chile. Since Sept. 2025, I am working on my PhD in Leiden, focused on evolved stars in quiescent galaxies.
+I grew up in the beautiful town of Genk, Belgium. My passion for astronomy began early, when I joined a youth astronomy organization called JVS-Descartes at a local public observatory. In 2019, I moved to the Netherlands to study astronomy and physics in Leiden. For my master's project, I studied how supermassive black holes are fed, which took me all the way to Chile. Since September 2025, I've been working on my PhD in Leiden.
 
-I enjoy giving talks, writing popular science articles and looking at the world from weird angles through my camera. But whenever I'm not distracted by our awesome universe, I also enjoy playing volleyball, cooking and listening to my vinyl records.
+I enjoy giving public talks, writing popular science articles and looking at the world from weird angles through my camera. But whenever I'm not distracted by our universe, I also enjoy playing volleyball, cooking and listening to my vinyl records.
+
+<div class="about-research-row mt-4">
+  <div class="about-research-image">
+    <img src="/assets/img/cw_leonis.jpg" class="img-fluid rounded z-depth-1" alt="Hubble image of the carbon-rich TP-AGB star CW Leonis">
+    <p class="text-center mt-2"><em>Expanding shells of dust fly out from the surface of the carbon-rich TP-AGB star CW Leonis - Credit: ESA/Hubble, NASA.</em></p>
+  </div>
+  <div class="about-research-text">
+    <p><strong>My research</strong></p>
+    <p>My PhD focuses on a rather peculiar type of star: thermally pulsing asymptotic giant branch (TP-AGB) stars. You can think of them as cosmic dust factories, that enrich the universe with dust and with elements crucial for life, such as carbon and nitrogen. Dust is the building material from which planets are eventually made. Our own blue marble, Earth, formed largely from dust that was produced in the bubbling atmospheres of TP-AGB stars. Without them, life on our planet would likely look very different, if it existed at all.</p>
+    <p>Yet despite their importance, the evolution of TP-AGB stars, their dust production, and their contribution to the light of galaxies like our own Milky Way remain a mystery in many ways. They're among the least understood of all stellar types. These uncertainties also ripple outward to other fundamental questions in astronomy. For example, it significantly complicates the measurements of ages and masses of galaxies in the universe. That is why I study them, and why I'm currently tackling questions like:</p>
+    <ul>
+      <li>How much light do AGB stars produce?</li>
+      <li>What is their role in the production of dust in the universe?</li>
+      <li>And how can we unlock the NIR to learn about their molecular absorption features?</li>
+    </ul>
+  </div>
+</div>
 
 <div class="row justify-content-center mt-5">
   <div class="col-sm-10">
@@ -43,15 +58,19 @@ I enjoy giving talks, writing popular science articles and looking at the world 
   </div>
 </div>
 
-## Research
+## Exceptional Ordinary Physics
+
+<p class="text-muted">My monthly popular science column, where I dig into the extraordinary physics hiding behind everyday things. Read it <a href="/blog/">here</a>.</p>
+
+## Publications:
 
 <div class="publications" markdown="1">
 
-#### First-author publications
+#### First-author
 
 {% bibliography --group_by none --query @*[firstauthor=true]* %}
 
-#### Other publications
+#### Co-author:
 
 {% bibliography --group_by none --query @*[firstauthor=false]* %}
 
