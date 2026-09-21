@@ -43,7 +43,7 @@ I enjoy giving public talks, writing popular science articles and looking at the
 
 **My research**
 
-My PhD focuses on a rather peculiar type of star: thermally pulsing asymptotic giant branch (TP-AGB) stars. You can think of them as cosmic dust factories, that enriching the universe with dust and with elements crucial for life, such as carbon and nitrogen. Dust is the building material from which planets are eventually made. Our own blue marble, Earth, formed largely from dust that was produced in the bubbling atmospheres of TP-AGB stars. Without them, life on our planet would likely look very different, if it existed at all.
+My PhD focuses on a rather peculiar type of star: thermally pulsing asymptotic giant branch (TP-AGB) stars. You can think of them as cosmic dust factories, that enrich the universe with dust and with elements crucial for life, such as carbon and nitrogen. Dust is the building material from which planets are eventually made. Our own blue marble, Earth, formed largely from dust that was produced in the bubbling atmospheres of TP-AGB stars. Without them, life on our planet would likely look very different, if it existed at all.
 
 Yet despite their importance, the evolution of TP-AGB stars, their dust production, and their contribution to the light of galaxies like our own Milky Way remain a mystery in many ways. They're among the least understood of all stellar types. These uncertainties also ripple outward to other fundamental questions in astronomy. For example, it significantly complicates the measurements of ages and masses of galaxies in the universe. That is why I study them, and why I'm currently tackling questions like:
 
