@@ -26,19 +26,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I am a PhD candidate at Leiden University, supervised by [Prof. Mariska Kriek](https://home.strw.leidenuniv.nl/~kriek/). I work in observational extragalactic astrophysics, studying asymptotic giant branch stars and how they shape the light, composition, and evolution of their host galaxies.
+Hi there! I am a PhD candidate at Leiden University, supervised by [Prof. Mariska Kriek](https://home.strw.leidenuniv.nl/~kriek/). I work in observational extragalactic astrophysics, where I study how asymptotic giant branch stars shape the light, composition, and evolution of their host galaxies.
 
 **A little bit about myself**
 
-I grew up in the beautiful town of Genk, Belgium. My passion for astronomy began early, when I joined a youth astronomy organization called JVS-Descartes at a local public observatory — an experience that ultimately inspired my academic career. In 2019, I moved to the Netherlands to study astronomy and physics in Leiden. For my master's project, I studied how supermassive black holes are fed, which took me all the way to Chile. Since September 2025, I've been working on my PhD in Leiden.
+I grew up in the beautiful town of Genk, Belgium. My passion for astronomy began early, when I joined a youth astronomy organization called JVS-Descartes at a local public observatory. In 2019, I moved to the Netherlands to study astronomy and physics in Leiden. For my master's project, I studied how supermassive black holes are fed, which took me all the way to Chile. Since September 2025, I've been working on my PhD in Leiden.
 
 I enjoy giving public talks, writing popular science articles and looking at the world from weird angles through my camera. But whenever I'm not distracted by our universe, I also enjoy playing volleyball, cooking and listening to my vinyl records.
 
 **My research**
 
-My PhD focuses on a rather peculiar type of star: thermally pulsing asymptotic giant branch (TP-AGB) stars. Mouthful aside, you can think of them as cosmic dust factories, enriching the universe with dust and with elements crucial for life, such as carbon and nitrogen. Dust is the building material from which planets are eventually made — our own blue marble, Earth, formed largely from dust first produced in the bubbling atmospheres of TP-AGB stars. Without them, life on our planet would likely look very different, if it existed at all.
+My PhD focuses on a rather peculiar type of star: thermally pulsing asymptotic giant branch (TP-AGB) stars. You can think of them as cosmic dust factories, that enriching the universe with dust and with elements crucial for life, such as carbon and nitrogen. Dust is the building material from which planets are eventually made. Our own blue marble, Earth, formed largely from dust that was produced in the bubbling atmospheres of TP-AGB stars. Without them, life on our planet would likely look very different, if it existed at all.
 
-Yet despite their importance, the evolution of TP-AGB stars, their dust production, and their contribution to galaxies like our own Milky Way remain largely a mystery — they're among the least understood of all stellar types. That uncertainty ripples outward too, clouding fundamental measurements such as the ages and masses of galaxies. This is why I study them, and why I'm currently tackling questions like:
+Yet despite their importance, the evolution of TP-AGB stars, their dust production, and their contribution to the light of galaxies like our own Milky Way remain a mystery in many ways. They're among the least understood of all stellar types. These uncertainties also ripple outward to other fundamental questions in astronomy. For example, it significantly complicates the measurements of ages and masses of galaxies in the universe. That is why I study them, and why I'm currently tackling questions like:
 
 - How much light do AGB stars produce?
 - What is their role in the production of dust in the universe?
