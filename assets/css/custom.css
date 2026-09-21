@@ -119,3 +119,42 @@ body > div.container {
 .accent-text {
   color: var(--global-theme-color);
 }
+
+/* "My research" bio section: image + text side by side on desktop only.
+   Implemented with plain flexbox in our own stylesheet (rather than
+   Bootstrap col-md-*/order-md-* utility classes) because this site's CSS
+   is run through PurgeCSS against the theme's own templates, and those
+   grid/order utility variants aren't guaranteed to survive that step -
+   which is why the image was rendering at full width instead of in a
+   constrained column. */
+.about-research-row {
+  display: flex;
+  flex-direction: column;
+}
+
+.about-research-row .about-research-image {
+  order: 1;
+}
+
+.about-research-row .about-research-text {
+  order: 2;
+}
+
+@media (min-width: 768px) {
+  .about-research-row {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 2rem;
+  }
+
+  .about-research-row .about-research-image {
+    order: 1;
+    flex: 0 0 40%;
+    max-width: 40%;
+  }
+
+  .about-research-row .about-research-text {
+    order: 2;
+    flex: 1 1 60%;
+  }
+}
