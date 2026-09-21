@@ -6,7 +6,8 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Wout
 last_name: Goesaert
 contact_note: >
-  The best way to reach me is by email.
+  The best way to reach me is by email.<br>
+  goesaert@strw.leidenuniv.nl
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal academic website of Wout Goesaert, PhD candidate at Leiden Observatory.
 footer_text: >
